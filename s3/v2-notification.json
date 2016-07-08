@@ -1,0 +1,12 @@
+{
+  "Type" : "Notification",
+  "MessageId" : null,
+  "TopicArn" : null,
+  "Subject" : "Amazon S3 Notification",
+  "Message" : null,
+  "Timestamp" : null,
+  "SignatureVersion" : null,
+  "Signature" : null,
+  "SigningCertURL" : null,
+  "UnsubscribeURL" : null
+}
